@@ -1,0 +1,5 @@
+DB_USERNAME=
+DB_PASSWORD=
+DB_HOST=lacodb2
+DB_PORT=1433
+DB_NAME=wh_form_db_test

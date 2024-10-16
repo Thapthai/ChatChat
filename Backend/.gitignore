@@ -1,0 +1,22 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Dependency directories
+vendor/
+
+# Configuration files
+.env
+*.log
+
+# IDE files
+.idea/
+*.iml
+*.swp
+
+# Other files to ignore
+*.DS_Store
